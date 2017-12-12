@@ -1,3 +1,13 @@
-span {font:bold 150px/1.6 verdana; color:lightblue; margin:50px;}
-span:nth-child(1) {text-shadow:5px 5px 5px #222;}
-span:nth-child(2) {text-shadow:10px 10px 10px #999;}
+@charset "utf-8";
+@import url(http://fonts.googleapis.com/css?family=Play);
+@import url(http://fonts.googleapis.com/css?family=Monoton);
+
+/*    Reset CSS  */
+* { margin:0;  padding:0; }
+ol,ul { list-style: none; }
+a { outline:0; text-decoration:none; color:#bbb;}
+img { border:0;}
+body { position:fixed;  width:100%; height:100%; background:#111;}
+
+.vid {width:100%; height:100%; position:fixed; top:-60px; left:0px; opacity:0.9;}
+.vid video{width:100%; min-width:1600px;}
