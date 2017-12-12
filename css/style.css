@@ -1,1 +1,5 @@
-video {display:block; width:900px; margin:50px auto; border:1px solid lightgreen;}
+ul li {font-size: 20px; font-weight: bold;}
+ul li:nth-child(1) {color:red;}
+ul li:nth-child(2) {color:green;}
+ul li:nth-child(3) {color:whitesmoke}
+ul li:nth-child(4) {color:beige}
