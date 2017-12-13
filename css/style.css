@@ -42,7 +42,7 @@ header {width:700px; height:100%; background:linear-gradient(-45deg, #e6fc55, #b
 .txtBox {width:340px; height:280px; position:fixed; top:200px; right:70px;}
 .txt { position: absolute; top:200px; right: 0px; font-size: 34px; font-family: play; color: #bbb; letter-spacing: -2px;}
 .txt b {font: bold 34px arial; color: #b9fb05; margin-left: 20px;}
-.tit {position: absolute; top: 0px; right: 0px; font-size: 160px; color: #fff; font-family: 'Monoton'; letter-spacing: -1px;}
+.tit {position: absolute; top: 0px; right: 0px; font-size: 160px;  font-family: 'Monoton'; letter-spacing: -1px;}
 .tit em {font-size: 50px; font-family: play; color: #fff;}
 
 .vid {width:100%; height:100%; position:fixed; top:-60px; left:0px; opacity:0.9;}
